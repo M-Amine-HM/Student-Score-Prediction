@@ -2,6 +2,14 @@
 
 > A machine learning project that predicts students' exam scores using linear regression, trained on 19 behavioral, demographic, and academic features from a dataset of 6,607 students.
 
+This project focuses on predicting students' exam scores using machine learning techniques. It explores the relationship between students' study habits, academic performance, and other relevant features.
+
+The project includes data preprocessing, exploratory data analysis, model training, and evaluation to build a model capable of predicting exam scores.
+
+### Objective
+
+The main objective is to develop a machine learning model that can estimate a student's exam score based on the available student-related features.
+
 ---
 
 ## 📌 Problem Statement
