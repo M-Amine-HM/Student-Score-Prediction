@@ -6,9 +6,6 @@ This project focuses on predicting students' exam scores using machine learning 
 
 The project includes data preprocessing, exploratory data analysis, model training, and evaluation to build a model capable of predicting exam scores.
 
-### Objective
-
-The main objective is to develop a machine learning model that can estimate a student's exam score based on the available student-related features.
 
 ---
 
